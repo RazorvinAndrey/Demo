@@ -7,9 +7,10 @@
     border: 1px solid gray;
 }
 
-.pageNumber.selectedPage {
+.selectedPage {
     font-weight: bold;
-    border-color: black;
+    padding: 2px;
+    border: 2px solid black;
 }
 
 
