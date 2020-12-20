@@ -1,8 +1,15 @@
-.selectedPage {
-    font-weight: bold;
+.pugianator{
+    margin: 10px;
 }
 
-.nums {
-    width: 1000px;
-    word-wrap:break-word;
+.pageNumber {
+    padding: 2px;
+    border: 1px solid gray;
 }
+
+.pageNumber.selectedPage {
+    font-weight: bold;
+    border-color: black;
+}
+
+
