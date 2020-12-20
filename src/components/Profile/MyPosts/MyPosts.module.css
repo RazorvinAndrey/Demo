@@ -1,0 +1,22 @@
+.postsBlock{
+    padding: 10px;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 5fr 5fr;
+    grid-gap: 5px;
+}
+.posts{
+    padding: 20px;
+}
+
+.text{
+    height: 35px;
+    width: 500px;
+}
+
+.but{
+    height: 40px;
+    width: 90px;
+    color: blueviolet;
+}

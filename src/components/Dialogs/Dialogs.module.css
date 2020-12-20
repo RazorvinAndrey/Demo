@@ -1,0 +1,30 @@
+.dialogs{
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+}
+
+.dialogsItems{
+    padding: 10px;
+}
+
+.messages{
+    padding: 10px;
+    color: aliceblue;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: 5fr 5fr;
+    grid-gap: 5px;
+}
+
+.text{
+    height: 35px;
+    width: 500px;
+}
+
+.but{
+    height: 40px;
+    width: 90px;
+    color: blueviolet;
+}
